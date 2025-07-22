@@ -26,7 +26,6 @@ relationships, and key patterns within the dataset.
 - Are there any noticeable pricing trends based on car make and mileage?
 
 
-
 # CAR INVENTORY ANALYSIS PROJECT
 
 
@@ -36,8 +35,8 @@ This Data Analysis Project aims to provide insight from a dataset containing det
 
 ### Tools
 
-- Excel [Website](https:office.com)
-- Jupyter Notebook
+Excel [Website](https:office.com)
+Jupyter Notebook
 
 ### Cleaning and Preprocessing the Dataset
   To ensure data integrity:
