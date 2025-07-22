@@ -118,3 +118,19 @@ owv-izmj-kcg
 
 7. Market Research Extension:
    - Regularly monitor customer preferences and competitor pricing to keep the inventory aligned with market demand.
+
+### Limitations
+
+A limitation in data analysis reporting refers to any factor that restricts, weakens, or challenges the accuracy, scope, or generalizability of the analysis results.
+
+While the analysis provided key insights into car pricing and brand performance, limitations such as missing mileage data and lack of customer purchase history may have affected the completeness of the conclusions. Future analysis should aim to include these data points for a more comprehensive overview.
+
+### References
+
+[Car Dataset](https://docs.google.com/spreadsheets/d/148gzCAxQno4wlIj_tzgUIyDTG8y4ifRr/edit?usp=sharing&ouid=107969485968939728677&rtpof=true&sd=true)
+
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Results](#results)
+- [Recommendation](#recommendation)
